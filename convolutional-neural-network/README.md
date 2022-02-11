@@ -2,4 +2,5 @@ Build a convolutional neural network to predict the pulmonary disease of patient
 Use the training data to predict whether the patient has “Edema”.
 
 Part 1: Binary Classification
+</br>
 Part 2: Multi-label Classification
